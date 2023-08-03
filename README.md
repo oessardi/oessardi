@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oessardi
+- 👋 Hi, I’m Omar Essardi
 - 👀 I’m interested in economics, econometrics and statistics
 - 🌱 I’m currently learning programming in python
 - 📫 How to reach me omar_essardi1@yahoo.fr or o.essardi@uca.ma
